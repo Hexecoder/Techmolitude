@@ -36,8 +36,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Techmolitude&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Techmolitude&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hexecoder&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hexecoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -62,6 +62,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
 
+&nbsp;
+
+[![meodabas's 42 stats](https://badge.mediaplus.ma/greenbinary/meodabas)](https://github.com/oakoudad/badge42)
+
 ###
 
 <img src="https://raw.githubusercontent.com/Techmolitude/Techmolitude/output/snake.svg" alt="Snake animation" />
@@ -69,7 +73,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Techmolitude/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Hexecoder/count.svg?"  />
 </div>
 
 ###
